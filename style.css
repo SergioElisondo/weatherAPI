@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700&family=Press+Start+2P&display=swap');
+
+
+/* font-family: 'Manrope', sans-serif;
+font-family: 'Press Start 2P', cursive; */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Manrope', sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 3vw;
+    margin-top: 5%;
+}
+
+.form {
+display: flex;
+    justify-content: center;
+    font-size: 1vw;
+    margin-top: 5%;
+}
